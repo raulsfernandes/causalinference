@@ -3,8 +3,8 @@
 
 ## Articles
 ### Theory
-- Angrist, Imbens, and Rubin, 1996, *Journal of the American Statistical Association*, "[Identiﬁcation of
-Causal Effects Using Instrumental Variables](http://zmjones.com/data/causal-inference/angrist-jasa-1997.pdf)"
+ - Angrist, Imbens, and Rubin, 1996, *Journal of the American Statistical Association*, "[Identiﬁcation of
+Causal Effects Using Instrumental Variables](http://zmjones.com/data/causal-inference/angrist-jasa-1996.pdf)"
  - Little and Yau, *Psychological Methods*, 1998, "[Statistical Techniques for Analyzing Data
 From Prevention Trials: Treatment of No-Shows Using Rubin's Causal Model](http://zmjones.com/data/causal-inference/little-pm-1998.pdf)"
  - Dunning, *Political Analysis*, 2008, "[Model Speciﬁcation in Instrumental-Variables Regression](http://zmjones.com/data/causal-inference/dunning-pa-2008.pdf)"
@@ -18,10 +18,10 @@ From Prevention Trials: Treatment of No-Shows Using Rubin's Causal Model](http:/
 
 ### Application
  - Kern and Hainmueller, *Political Analysis*, 2009, "[Opium for the Masses: How Foreign Media Can
-Stabilize Authoritarian Regimes](http://zmjones/data/causal-inference/kern-pa-2009.pdf)"
+Stabilize Authoritarian Regimes](http://zmjones.com/data/causal-inference/kern-pa-2009.pdf)"
  - Acemoglu, Johnson, and Robinson, *American Economic Review*, 2001, "[The Colonial Origins of Comparative Development: An Empirical Investigation](http://zmjones.com/data/causal-inference/acemoglu-aer-2001.pdf)"
  - Clingingsworth, Khwaja, and Kremer, *Quarterly Journal of Economics*, 2009, "[Estimating the Impact of the Hajj: Religion and Tolerance in Islam's Global Gathering](http://zmjones.com/data/causal-inference/clingingsworth-qje-2009.pdf)"
  - Stromberg, *Quarterly Journal of Economics*, 2004, "[Radio's Impact on Public Spending](http://zmjones.com/data/causal-inference/stromberg-qje-2004.pdf)"
-- Angrist, *American Economic Review*, 1990, "[Lifetime Earnings and teh Vietnam Era Draft Lottery: Evidence from Social Security Administrative Records](http://zmjones.com/data/causal-inference/angrist-aer-1990.pdf)"
+ - Angrist, *American Economic Review*, 1990, "[Lifetime Earnings and teh Vietnam Era Draft Lottery: Evidence from Social Security Administrative Records](http://zmjones.com/data/causal-inference/angrist-aer-1990.pdf)"
  
 
