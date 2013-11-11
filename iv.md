@@ -23,5 +23,3 @@ Stabilize Authoritarian Regimes](http://zmjones.com/data/causal-inference/kern-p
  - Clingingsworth, Khwaja, and Kremer, *Quarterly Journal of Economics*, 2009, "[Estimating the Impact of the Hajj: Religion and Tolerance in Islam's Global Gathering](http://zmjones.com/data/causal-inference/clingingsworth-qje-2009.pdf)"
  - Stromberg, *Quarterly Journal of Economics*, 2004, "[Radio's Impact on Public Spending](http://zmjones.com/data/causal-inference/stromberg-qje-2004.pdf)"
  - Angrist, *American Economic Review*, 1990, "[Lifetime Earnings and teh Vietnam Era Draft Lottery: Evidence from Social Security Administrative Records](http://zmjones.com/data/causal-inference/angrist-aer-1990.pdf)"
- 
-
