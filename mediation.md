@@ -1,3 +1,3 @@
- - Imai, Keele, and Yamamoto, *Statistical Science*, 2010, "[Identiﬁcation, Inference and Sensitivity Analysis for Causal Mediation Effects](http://zmjones.com/data/causal-inference/imai-ss-2010.pdf)"
- - Imai, Keele, and Tingley, *Psychological Methods*, 2010, "[A General Approach to Causal Mediation Analysis](http://zmjones.com/data/causal-inference/imai-pm-2010.pdf)"
- - Imai, Keele, Tingley, and Yamamoto, *American Political Science Review*, 2011, "[Unpacking the Black Box of Causality: Learning about Causal Mechanisms from Experimental and Observational Studies](http://zmjones.com/data/causal-inference/imai-apsr-2011.pdf)"
+ - Imai, Keele, and Yamamoto, *Statistical Science*, 2010, "[Identiﬁcation, Inference and Sensitivity Analysis for Causal Mediation Effects](http://zmjones.com/static/causal-inference/imai-ss-2010.pdf)"
+ - Imai, Keele, and Tingley, *Psychological Methods*, 2010, "[A General Approach to Causal Mediation Analysis](http://zmjones.com/static/causal-inference/imai-pm-2010.pdf)"
+ - Imai, Keele, Tingley, and Yamamoto, *American Political Science Review*, 2011, "[Unpacking the Black Box of Causality: Learning about Causal Mechanisms from Experimental and Observational Studies](http://zmjones.com/static/causal-inference/imai-apsr-2011.pdf)"

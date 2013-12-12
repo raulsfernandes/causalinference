@@ -4,3 +4,5 @@
  - Angrist and Pishke, (2008) [Mostly Harmless Econometrics](http://amzn.to/17fjFCN)
  - Hernan and Robbins, (2013) [Causal Inference](http://hvrd.me/17fjHKV)
  - Shadish, Cook, and Campbell, (2001) [Experimental and Quasi-Experimental Designs for Generalized Causal Inference](http://amzn.to/17fjt6r)
+ - Paul and Hall, (2013) [Causation: A User's Guide](http://amzn.to/1fwNmiM)
+ - Dunning (2012) [Natural Experiments in the Social Sciences](http://amzn.to/1bsL4wW)
