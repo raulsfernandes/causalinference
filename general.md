@@ -7,7 +7,6 @@
  - Rubin, *Annals of Applied Statistics*, 2008, "[For Objective Causal Inference: Design Trumps Analysis](http://zmjones.com/static/causal-inference/rubin-aas-2008.pdf)"
  - Freedman, 1999, *Statistical Science*, "[From Association to Causation: Some Remarks on the History of Statistics](http://zmjones.com/data/causal-inference/freedman-ss-1999.pdf)"
  - Freedman, 1991, *Sociological Methodology*, "[Statistical models and shoe leather](http://cooley.libarts.wsu.edu/schwartj/pdf/Freedman_statistical%20model.pdf)" 
- - King and Zeng, *Political Analysis*, 2005, "[The Dangers of Extreme Counterfactuals](http://zmjones.com/data/causal-inference/king-pa-2005.pdf)"
  - Holland, *Journal of the American Statistical Association*, 1986, "[Statistics and Causal Inference](http://zmjones.com/data/causal-inference/holland-jasa-1986.pdf)"
  - Sekhon, *Perspectives on Politics*, 2004, "[Quality Meets Quantity: Case Studies, Conditional Probability, and Counterfactuals](http://zmjones.com/data/causal-inference/sekhon-pp-2004.pdf)"
  - Rosenbaum, *Statistical Science*, 2002, "[Covariance Adjustment in Randomized Experiments and Observational Studies](http://zmjones.com/data/causal-inference/rosenbaum-ss-2002.pdf)"
