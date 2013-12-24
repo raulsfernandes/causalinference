@@ -16,10 +16,13 @@ Average Treatment Effects](http://zmjones.com/static/causal-inference/abadie-jbe
 Coarsened Exact Matching](http://zmjones.com/static/causal-inference/iacus-pa-2011.pdf)"
  - Rubin, *Biometrics*, 1973 "[Matching to Remove Bias in Observational Studies](http://zmjones.com/static/causal-inference/rubin-b-1973.pdf)"
  - Rubin, *Biometrics*, 1973, "[The Use of Matched Sampling and Regression Adjustment to Remove Bias in Observational Studies](http://zmjones.com/static/causal-inference/rubin-b-1973b.pdf)"
+ - Rubin, *Statistics in Medicine*, 2007, "[The Design Versus the Analysis of Observational Studies for Causal Effects: Parallels with the Design of Randomized Trials](http://www.ncbi.nlm.nih.gov/pubmed/17072897)"
  - Dehejia and Wahba, *Journal of the American Statistical Association*, 1999, "[Causal Effects in Nonexperimental Studies: Reevaluating the Evaluation of Training Programs](http://zmjones.com/static/causal-inference/dehejia-jasa-1999.pdf)"
  - Rosenbaum and Rubin, *Biometrika*, 1983, "[The Central Role of the Propensity Score in Observational Studies for Causal Effects](http://zmjones.com/static/causal-inference/rosenbaum-b-1983.pdf)"
+ - Rosenbaum and Rubin, *American Statistician*, 1985, "[Constructing a Control Group Using Multivariate Matched Sampling Methods that Incorporate the Propensity Score](http://www.jstor.org/discover/10.2307/2683903?uid=3739256&uid=2129&uid=2&uid=70&uid=4&sid=21103165339397)"
  - Imbens, *Review of Economics and Statistics*, 2004, "[Nonparametric Estimation of Average Treatment Effects under Exogeneity: A Review](http://zmjones.com/static/causal-inference/imbens-res-2004.pdf)"
  - Rosenbaum, *Journal of the American Statistical Association*, 1989, "[Optimal Matching for Observational Studies](http://zmjones.com/static/causal-inference/rosenbaum-jasa-1989.pdf)"
+ - Smith and Todd, *Journal of Econometrics*, "[Does Matching Overcome LaLonde's Critique of Nonexperimental Estimators?](http://ideas.repec.org/p/uwo/hcuwoc/20035.html)"
 
 ### Applications
  - Lyall, *American Political Science Review*, 2011, "[Are Coethnics More Effective Counterinsurgents? Evidence from the Second Chechen War](http://zmjones.com/static/causal-inference/lyall-apsr-2011.pdf)"
