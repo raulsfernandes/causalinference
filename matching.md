@@ -31,3 +31,4 @@ Incumbent Behavior](http://zmjones.com/static/causal-inference/gordon-qjps-2007.
  - Gilligan and Sergenti, *Quarterly Journal of Political Science*, 2008, "[Do UN Interventions Cause Peace? Using
 Matching to Improve Causal Inference](http://zmjones.com/static/causal-inference/gilligan-qjps-2008.pdf)"
  - Simmons and Hopkins, *American Political Science Review*, 2005, "[The Constraining Power of International Treaties: Theory and Methods](http://zmjones.com/static/causal-inference/simmons-apsr-2005.pdf)"
+ - Lenz and Ladd, "[Exploiting a Rare Shift in Communication Flows: Media Effects in the 1996 British Election](sekhon.berkeley.edu/causalinf/papers/LaddLenzBritish.pdf)"
