@@ -1,3 +1,5 @@
+# Instrumental Variables
+
 ## Notes
  - [Matt Blackwell](http://www.mattblackwell.org/files/teaching/s12-iv.pdf)
 

@@ -1,3 +1,5 @@
+# Regression Discontinuity
+
 ## Notes
  - [Matt Blackwell](http://www.mattblackwell.org/files/teaching/s13-rdd.pdf)
 
