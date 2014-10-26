@@ -9,7 +9,7 @@
  - Hahn, Todd, and Van der Klaauw, *Econometrica*, 2001, "[Identifcation and Estimation of Treatment Effects with a Regression Discontinuity Design](http://zmjones.com/static/causal-inference/hahn-e-2001.pdf)"
 
 ### Applications
- - Ferraz and Finan, 2009, *NBER Working Paper*, "[Motivating Politicians: The Impacts of Monetary
+ - Ferraz and Finan, *NBER Working Paper*, 2009, "[Motivating Politicians: The Impacts of Monetary
 Incentives on Quality and Performance](http://zmjones.com/static/causal-inference/ferraz-nber-2009.pdf)"
  - Lee, *Journal of Econometrics*, 2008, "[Randomized experiments from non-random selection in U.S. House elections](http://zmjones.com/static/causal-inference/lee-je-2008.pdf)"
  - Eggers and Hainmueller, *American Political Science Review*, 2009, "[MPs for Sale? Estimating Returns to Office in Post-War British Politics](http://zmjones.com/static/causal-inference/eggers-apsr-2009.pdf)"

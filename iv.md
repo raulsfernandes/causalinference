@@ -5,7 +5,7 @@
 
 ## Articles
 ### Theory
- - Angrist, Imbens, and Rubin, 1996, *Journal of the American Statistical Association*, "[Identiﬁcation of
+ - Angrist, Imbens, and Rubin, *Journal of the American Statistical Association*, 1996, "[Identiﬁcation of
 Causal Effects Using Instrumental Variables](http://zmjones.com/static/causal-inference/angrist-jasa-1996.pdf)"
  - Little and Yau, *Psychological Methods*, 1998, "[Statistical Techniques for Analyzing Data
 From Prevention Trials: Treatment of No-Shows Using Rubin's Causal Model](http://zmjones.com/static/causal-inference/little-pm-1998.pdf)"
