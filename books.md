@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  - Rosenbaum, 2002, [Observational Studies](http://amzn.to/JmbDNa)
  - Rosenbaum, 2009, [Design of Observational Studies](http://amzn.to/17fjt6r)
  - Morgan and Winship, 2007, [Counterfactuals and Causal Inference](http://amzn.to/17fjvLE)
@@ -12,3 +13,21 @@
  - Manski, 1999, [Identification Problems in the Social Sciences](http://amzn.to/1hAvnZL)
  - Manski, 2008, [Identification for Prediction and Decision](http://amzn.to/1dztkCg)
  - Rubin, 2006, [Matched Sampling for Causal Effects](http://amzn.to/1a4SN4n)
+=======
+ - Rosenbaum, (2002) [Observational Studies](http://amzn.to/JmbDNa)
+ - Rosenbaum, (2009) [Design of Observational Studies](http://amzn.to/17fjt6r)
+ - Morgan and Winship, (2007) [Counterfactuals and Causal Inference](http://amzn.to/17fjvLE)
+ - Pearl, (2013) [Causality: Models, Reasoning and Inference](http://amzn.to/17fjDLc)
+ - Angrist and Pischke, (2008) [Mostly Harmless Econometrics](http://amzn.to/17fjFCN)
+ - Angrist and Pischke, (2014) [Mastering 'Metrics](http://amzn.to/1wSjNmD)
+ - Imbens and Rubin, (2015) [Causal Inference in Statistics, Social, and Biomedical Sciences](http://amzn.to/1xXDOtA)
+ - Hernan and Robbins, (2013) [Causal Inference](http://hvrd.me/17fjHKV)
+ - Shadish, Cook, and Campbell, (2001) [Experimental and Quasi-Experimental Designs for Generalized Causal Inference](http://amzn.to/17fjt6r)
+ - Paul and Hall, (2013) [Causation: A User's Guide](http://amzn.to/1fwNmiM)
+ - Dunning, (2012) [Natural Experiments in the Social Sciences](http://amzn.to/1bsL4wW)
+ - Diamond and Robinson, (2011) [Natural Experiments in History](http://amzn.to/1cOvo7W)
+ - Freedman, Collier, Sekhon, and Stark, (2009) [Statistical Models and Causal Inference: A Dialogue with the Social Sciences](http://amzn.to/1d4VxD8)
+ - Manski, (1999) [Identification Problems in the Social Sciences](http://amzn.to/1hAvnZL)
+ - Manski, (2008) [Identification for Prediction and Decision](http://amzn.to/1dztkCg)
+ - Rubin, (2006) [Matched Sampling for Causal Effects](http://amzn.to/1a4SN4n)
+>>>>>>> abbc92c6bdbd3aa2073bae4f082cd177970a489a
