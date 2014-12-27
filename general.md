@@ -10,5 +10,4 @@
  - Rosenbaum, *The American Statistician*, 2005, "[Heterogeneity and Causality: Unit Heterogeneity and Design
 Sensitivity in Observational Studies](http://zmjones.com/static/causal-inference/rosenbaum-as-2005.pdf)"
  - Pearl, *Statistics Surveys*, 2009, "[Causal Inference in Statistics: An Overview](http://zmjones.com/static/causal-inference/pearl-ss-2009.pdf)"
- - Freedman, *Sociological Methodology*, 1991 "[Statistical Models and Shoe Leather](http://zmjones.com/static/causal-inference/freedman-sm-1991.pdf)"
  - Keele, McConnaughy, and White, *American Journal of Political Science*, 2012 "[Strengthening the Experimenter’s Toolbox: Statistical Estimation of Internal Validity](http://zmjones.com/static/causal-inference/keele-ajps-2012.pdf)"
